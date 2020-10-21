@@ -6,14 +6,15 @@
     <title>Unity WebGL Player | Zuma</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
-	<script>
-		function depositToPlay(){
-      console.log("Deposit to play");
-    }
-    function submitScore(score){
-      console.log(`Score: ${score}`);
-    }
-	</script>
+    <script>
+      function custom_startGame(){
+        console.log("Start Game");
+      }
+
+      function custom_submitScore(score){
+        console.log("Submit Score");
+      }
+    </script>
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
@@ -40,7 +41,7 @@
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Blardkey",
         productName: "Zuma",
-        productVersion: "2.0.15",
+        productVersion: "2.0.16",
       };
 
       var container = document.querySelector("#unity-container");
