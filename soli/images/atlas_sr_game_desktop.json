@@ -1,0 +1,664 @@
+{
+    "frames": [
+        {
+            "filename": "btn_blue",
+            "rotated": false,
+            "frame": {
+                "w": 192,
+                "x": 88,
+                "h": 74,
+                "y": 941
+            }
+        },
+        {
+            "filename": "btn_end",
+            "rotated": false,
+            "frame": {
+                "w": 89,
+                "x": 673,
+                "h": 43,
+                "y": 738
+            }
+        },
+        {
+            "filename": "btn_exit",
+            "rotated": false,
+            "frame": {
+                "w": 52,
+                "x": 920,
+                "h": 56,
+                "y": 204
+            }
+        },
+        {
+            "filename": "btn_gold",
+            "rotated": false,
+            "frame": {
+                "w": 192,
+                "x": 262,
+                "h": 74,
+                "y": 559
+            }
+        },
+        {
+            "filename": "btn_settings",
+            "rotated": false,
+            "frame": {
+                "w": 52,
+                "x": 615,
+                "h": 56,
+                "y": 738
+            }
+        },
+        {
+            "filename": "btn_undo_disabled",
+            "rotated": false,
+            "frame": {
+                "w": 64,
+                "x": 545,
+                "h": 68,
+                "y": 738
+            }
+        },
+        {
+            "filename": "btn_undo_disabled_landscape",
+            "rotated": false,
+            "frame": {
+                "w": 64,
+                "x": 545,
+                "h": 68,
+                "y": 738
+            }
+        },
+        {
+            "filename": "btn_undo_landscape",
+            "rotated": false,
+            "frame": {
+                "w": 80,
+                "x": 382,
+                "h": 85,
+                "y": 927
+            }
+        },
+        {
+            "filename": "dot_off",
+            "rotated": false,
+            "frame": {
+                "w": 14,
+                "x": 881,
+                "h": 14,
+                "y": 315
+            }
+        },
+        {
+            "filename": "dot_on",
+            "rotated": false,
+            "frame": {
+                "w": 14,
+                "x": 881,
+                "h": 14,
+                "y": 335
+            }
+        },
+        {
+            "filename": "dt_btn_exit",
+            "rotated": false,
+            "frame": {
+                "w": 28,
+                "x": 989,
+                "h": 28,
+                "y": 162
+            }
+        },
+        {
+            "filename": "dt_btn_undo",
+            "rotated": false,
+            "frame": {
+                "w": 78,
+                "x": 840,
+                "h": 30,
+                "y": 694
+            }
+        },
+        {
+            "filename": "dt_btn_undo_disabled",
+            "rotated": false,
+            "frame": {
+                "w": 78,
+                "x": 924,
+                "h": 30,
+                "y": 694
+            }
+        },
+        {
+            "filename": "dt_btn_undo_hover",
+            "rotated": false,
+            "frame": {
+                "w": 78,
+                "x": 544,
+                "h": 30,
+                "y": 908
+            }
+        },
+        {
+            "filename": "game_hud_bg",
+            "rotated": false,
+            "frame": {
+                "w": 13,
+                "x": 901,
+                "h": 13,
+                "y": 315
+            }
+        },
+        {
+            "filename": "game_hud_bg_shadow",
+            "rotated": false,
+            "frame": {
+                "w": 13,
+                "x": 262,
+                "h": 5,
+                "y": 658
+            }
+        },
+        {
+            "filename": "game_hud_container",
+            "rotated": false,
+            "frame": {
+                "w": 84,
+                "x": 673,
+                "h": 40,
+                "y": 787
+            }
+        },
+        {
+            "filename": "high_score_star",
+            "rotated": false,
+            "frame": {
+                "w": 28,
+                "x": 992,
+                "h": 33,
+                "y": 123
+            }
+        },
+        {
+            "filename": "modal_9slice_BC",
+            "rotated": false,
+            "frame": {
+                "w": 4,
+                "x": 978,
+                "h": 16,
+                "y": 203
+            }
+        },
+        {
+            "filename": "modal_9slice_BL",
+            "rotated": false,
+            "frame": {
+                "w": 16,
+                "x": 989,
+                "h": 16,
+                "y": 196
+            }
+        },
+        {
+            "filename": "modal_9slice_BR",
+            "rotated": false,
+            "frame": {
+                "w": 16,
+                "x": 988,
+                "h": 16,
+                "y": 218
+            }
+        },
+        {
+            "filename": "modal_9slice_CC",
+            "rotated": false,
+            "frame": {
+                "w": 4,
+                "x": 1010,
+                "h": 4,
+                "y": 218
+            }
+        },
+        {
+            "filename": "modal_9slice_CL",
+            "rotated": false,
+            "frame": {
+                "w": 16,
+                "x": 881,
+                "h": 4,
+                "y": 295
+            }
+        },
+        {
+            "filename": "modal_9slice_CR",
+            "rotated": false,
+            "frame": {
+                "w": 16,
+                "x": 881,
+                "h": 4,
+                "y": 305
+            }
+        },
+        {
+            "filename": "modal_9slice_TC",
+            "rotated": false,
+            "frame": {
+                "w": 4,
+                "x": 1011,
+                "h": 16,
+                "y": 196
+            }
+        },
+        {
+            "filename": "modal_9slice_TL",
+            "rotated": false,
+            "frame": {
+                "w": 16,
+                "x": 978,
+                "h": 16,
+                "y": 240
+            }
+        },
+        {
+            "filename": "modal_9slice_TR",
+            "rotated": false,
+            "frame": {
+                "w": 16,
+                "x": 1000,
+                "h": 16,
+                "y": 240
+            }
+        },
+        {
+            "filename": "modal_int_9slice",
+            "rotated": false,
+            "frame": {
+                "w": 8,
+                "x": 978,
+                "h": 8,
+                "y": 112
+            }
+        },
+        {
+            "filename": "modal_int_9slice_BC",
+            "rotated": false,
+            "frame": {
+                "w": 5,
+                "x": 978,
+                "h": 5,
+                "y": 126
+            }
+        },
+        {
+            "filename": "modal_int_9slice_BL",
+            "rotated": false,
+            "frame": {
+                "w": 5,
+                "x": 978,
+                "h": 5,
+                "y": 137
+            }
+        },
+        {
+            "filename": "modal_int_9slice_BR",
+            "rotated": false,
+            "frame": {
+                "w": 5,
+                "x": 978,
+                "h": 5,
+                "y": 148
+            }
+        },
+        {
+            "filename": "modal_int_9slice_CC",
+            "rotated": false,
+            "frame": {
+                "w": 5,
+                "x": 978,
+                "h": 5,
+                "y": 159
+            }
+        },
+        {
+            "filename": "modal_int_9slice_CL",
+            "rotated": false,
+            "frame": {
+                "w": 5,
+                "x": 978,
+                "h": 5,
+                "y": 159
+            }
+        },
+        {
+            "filename": "modal_int_9slice_CR",
+            "rotated": false,
+            "frame": {
+                "w": 5,
+                "x": 978,
+                "h": 5,
+                "y": 159
+            }
+        },
+        {
+            "filename": "modal_int_9slice_TC",
+            "rotated": false,
+            "frame": {
+                "w": 5,
+                "x": 978,
+                "h": 5,
+                "y": 170
+            }
+        },
+        {
+            "filename": "modal_int_9slice_TL",
+            "rotated": false,
+            "frame": {
+                "w": 5,
+                "x": 978,
+                "h": 5,
+                "y": 181
+            }
+        },
+        {
+            "filename": "modal_int_9slice_TR",
+            "rotated": false,
+            "frame": {
+                "w": 5,
+                "x": 978,
+                "h": 5,
+                "y": 192
+            }
+        },
+        {
+            "filename": "modal_shadow",
+            "rotated": false,
+            "frame": {
+                "w": 20,
+                "x": 994,
+                "h": 20,
+                "y": 97
+            }
+        },
+        {
+            "filename": "modal_shine",
+            "rotated": false,
+            "frame": {
+                "w": 78,
+                "x": 4,
+                "h": 76,
+                "y": 941
+            }
+        },
+        {
+            "filename": "particle_star",
+            "rotated": false,
+            "frame": {
+                "w": 26,
+                "x": 994,
+                "h": 26,
+                "y": 4
+            }
+        },
+        {
+            "filename": "results_header",
+            "rotated": false,
+            "frame": {
+                "w": 515,
+                "x": 473,
+                "h": 102,
+                "y": 4
+            }
+        },
+        {
+            "filename": "results_header_glow",
+            "rotated": false,
+            "frame": {
+                "w": 402,
+                "x": 473,
+                "h": 187,
+                "y": 295
+            }
+        },
+        {
+            "filename": "results_highscore_banner",
+            "rotated": false,
+            "frame": {
+                "w": 223,
+                "x": 768,
+                "h": 36,
+                "y": 738
+            }
+        },
+        {
+            "filename": "results_radial",
+            "rotated": false,
+            "frame": {
+                "w": 241,
+                "x": 4,
+                "h": 241,
+                "y": 694
+            }
+        },
+        {
+            "filename": "settings_header",
+            "rotated": false,
+            "frame": {
+                "w": 13,
+                "x": 901,
+                "h": 13,
+                "y": 334
+            }
+        },
+        {
+            "filename": "settings_rail",
+            "rotated": false,
+            "frame": {
+                "w": 13,
+                "x": 262,
+                "h": 13,
+                "y": 639
+            }
+        },
+        {
+            "filename": "settings_slider",
+            "rotated": false,
+            "frame": {
+                "w": 22,
+                "x": 994,
+                "h": 55,
+                "y": 36
+            }
+        },
+        {
+            "filename": "settings_toggleOff",
+            "rotated": false,
+            "frame": {
+                "w": 70,
+                "x": 468,
+                "h": 42,
+                "y": 908
+            }
+        },
+        {
+            "filename": "settings_toggleOn",
+            "rotated": false,
+            "frame": {
+                "w": 70,
+                "x": 468,
+                "h": 42,
+                "y": 956
+            }
+        },
+        {
+            "filename": "sr_logo",
+            "rotated": false,
+            "frame": {
+                "w": 385,
+                "x": 473,
+                "h": 190,
+                "y": 488
+            }
+        },
+        {
+            "filename": "sr_logo_classic_tag",
+            "rotated": false,
+            "frame": {
+                "w": 131,
+                "x": 881,
+                "h": 29,
+                "y": 359
+            }
+        },
+        {
+            "filename": "sr_logo_h_glow",
+            "rotated": false,
+            "frame": {
+                "w": 96,
+                "x": 920,
+                "h": 87,
+                "y": 266
+            }
+        },
+        {
+            "filename": "sr_logo_r_glow",
+            "rotated": false,
+            "frame": {
+                "w": 89,
+                "x": 338,
+                "h": 87,
+                "y": 834
+            }
+        },
+        {
+            "filename": "sr_logo_s_glow",
+            "rotated": false,
+            "frame": {
+                "w": 81,
+                "x": 251,
+                "h": 90,
+                "y": 834
+            }
+        },
+        {
+            "filename": "sr_logo_u_glow",
+            "rotated": false,
+            "frame": {
+                "w": 90,
+                "x": 286,
+                "h": 89,
+                "y": 930
+            }
+        },
+        {
+            "filename": "sr_logo_wide",
+            "rotated": false,
+            "frame": {
+                "w": 289,
+                "x": 545,
+                "h": 48,
+                "y": 684
+            }
+        },
+        {
+            "filename": "start_cards_clubs",
+            "rotated": false,
+            "frame": {
+                "w": 107,
+                "x": 432,
+                "h": 144,
+                "y": 684
+            }
+        },
+        {
+            "filename": "start_cards_diamonds",
+            "rotated": false,
+            "frame": {
+                "w": 92,
+                "x": 4,
+                "h": 125,
+                "y": 559
+            }
+        },
+        {
+            "filename": "start_cards_fx",
+            "rotated": false,
+            "frame": {
+                "w": 463,
+                "x": 4,
+                "h": 549,
+                "y": 4
+            }
+        },
+        {
+            "filename": "start_cards_hearts",
+            "rotated": false,
+            "frame": {
+                "w": 122,
+                "x": 881,
+                "h": 165,
+                "y": 394
+            }
+        },
+        {
+            "filename": "start_cards_spades",
+            "rotated": false,
+            "frame": {
+                "w": 140,
+                "x": 286,
+                "h": 189,
+                "y": 639
+            }
+        },
+        {
+            "filename": "theme_classic",
+            "rotated": false,
+            "frame": {
+                "w": 154,
+                "x": 864,
+                "h": 123,
+                "y": 565
+            }
+        },
+        {
+            "filename": "theme_modern",
+            "rotated": false,
+            "frame": {
+                "w": 154,
+                "x": 102,
+                "h": 123,
+                "y": 559
+            }
+        },
+        {
+            "filename": "tooltip_bubble",
+            "rotated": false,
+            "frame": {
+                "w": 293,
+                "x": 433,
+                "h": 68,
+                "y": 834
+            }
+        },
+        {
+            "filename": "txt_complete",
+            "rotated": false,
+            "frame": {
+                "w": 499,
+                "x": 473,
+                "h": 86,
+                "y": 112
+            }
+        },
+        {
+            "filename": "txt_timesup",
+            "rotated": false,
+            "frame": {
+                "w": 441,
+                "x": 473,
+                "h": 85,
+                "y": 204
+            }
+        }
+    ]
+}
