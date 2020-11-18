@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>Solitaire 2</title>
+    <title>Solitaire</title>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
@@ -26,15 +26,15 @@
 			console.log("On submit Score: " + score);
 		}
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/solitaire.loader.js";
+      var loaderUrl = buildUrl + "/soli.loader.js";
       var config = {
-        dataUrl: buildUrl + "/solitaire.data",
-        frameworkUrl: buildUrl + "/solitaire.framework.js",
-        codeUrl: buildUrl + "/solitaire.wasm",
+        dataUrl: buildUrl + "/soli.data",
+        frameworkUrl: buildUrl + "/soli.framework.js",
+        codeUrl: buildUrl + "/soli.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "Nicolas A",
-        productName: "Solitaire 2",
-        productVersion: "1.0.9",
+        productName: "Solitaire",
+        productVersion: "1.1.0",
       };
 
       var container = document.querySelector("#unity-container");
